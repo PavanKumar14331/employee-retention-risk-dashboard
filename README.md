@@ -17,5 +17,5 @@ IBM HR Analytics Employee Attrition dataset (Kaggle)
 Power BI Desktop, DAX, Power Query
 
 ## Screenshots
-![Overview](dashboard_overview.png)
-![Risk Analysis](Riskanalysis.png)
+![Overview]<img width="1417" height="751" alt="dashboard_overview" src="https://github.com/user-attachments/assets/f113b007-67d2-4873-86fd-9c305e29f84b" />)
+![Risk Analysis](<img width="1445" height="738" alt="Riskanalysis" src="https://github.com/user-attachments/assets/7c95746d-f4ca-4397-ba3f-51b1696db89f" />)
